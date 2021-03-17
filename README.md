@@ -11,4 +11,5 @@ Input Fields : Employee Code(primary key), Employee Name, Employee Address, Empl
                Employee Designation(Combo Box should filled from database table name designation).
 
 
-This Folder is  ' __pycache__ ' not necessary
+
+![Screenshot (329)](https://user-images.githubusercontent.com/65019876/111445284-44105380-8731-11eb-8304-1300fa5b432e.png)
